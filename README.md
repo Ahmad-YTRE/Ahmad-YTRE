@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmad-YTRE
 - 👀 I’m interested in code and becoming a developer.
 - 🌱 I’m currently learning JS, HTML, Python
-- 📫 How to reach me: Currently unavailable
+- 📫 How to reach me: @ahmad.exe on Discord.
 - 😄 Pronouns: He/Him
 
 <!---
